@@ -1,0 +1,7 @@
+{
+    
+    "mongoURI" : "mongodb+srv://testUser:test123@cluster0.k3hv3.mongodb.net/devConnect?retryWrites=true&w=majority",
+    "mongoURI2" : "mongodb://testUser:test123@cluster0-shard-00-00.k3hv3.mongodb.net:27017,cluster0-shard-00-01.k3hv3.mongodb.net:27017,cluster0-shard-00-02.k3hv3.mongodb.net:27017/devConnect?ssl=true&replicaSet=atlas-nuvqp0-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret" : "Thisismyjwtsecret."
+}
+
